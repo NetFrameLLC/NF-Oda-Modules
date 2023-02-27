@@ -3,7 +3,7 @@
     'version': '14.0.1.0',
     'summary': 'Shipsgo integration',
     'description': 'Shipsgo integration',
-    'license': 'OPL-1',
+    'license': 'LGPL-3',
     'depends': ['base', 'stock', 'sale'],
     'support': 'odoo@netframe.org',
     'website': 'https://www.netframe.org/',
