@@ -1,6 +1,6 @@
 {
     'name': 'Shipsgo integration',
-    'version': '14.0.1.0',
+    'version': '15.0.1.0',
     'summary': 'Shipsgo integration',
     'description': 'Shipsgo integration',
     'license': 'LGPL-3',
