@@ -13,7 +13,7 @@
        'views/shipsgo_integration.xml',
     ],
     'images': [
-        'static/description/icon.png'
+        # 'static/description/icon.png'
         'static/description/banner.gif'
     ],
     'installable': True,
