@@ -4,6 +4,7 @@
     'summary': 'Shipsgo integration',
     'description': 'Shipsgo integration',
     'license': 'LGPL-3',
+    'author': 'Netframe',
     'depends': ['base', 'stock', 'sale'],
     'support': 'odoo@netframe.org',
     'website': 'https://www.netframe.org/',
